@@ -1,0 +1,8 @@
+{
+  "name": "Tiny Jungle Run",
+  "description": "A delightful 3D endless runner game for kids featuring a cute baby tiger and animal friends running through a vibrant cartoon jungle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

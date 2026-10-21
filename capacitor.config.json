@@ -1,0 +1,15 @@
+{
+  "appId": "com.tinyjunglerun.app",
+  "appName": "Tiny Jungle Run 3D",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "backgroundColor": "#132a13",
+    "allowMixedContent": false,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  }
+}
